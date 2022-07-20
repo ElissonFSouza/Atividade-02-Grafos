@@ -1,3 +1,5 @@
+//Executar este código para grafos direcionados
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
